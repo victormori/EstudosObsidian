@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "cfd53e6dc936fbb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2376ded3fbd41f5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af17470e069cf78d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programação/PHP-Laravel/Imprimir mensagens.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Imprimir mensagens"
+            }
+          },
+          {
+            "id": "2968ce1aaffb35c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programação/PHP-Laravel/Introdução.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introdução"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06e399f7204e58db",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8d342dd3513d61f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8b960c0fbc9296f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "b262be849407d863",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "7e57b04320c701ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 202.5
+  },
+  "right": {
+    "id": "0624505074f00b46",
+    "type": "split",
+    "children": [
+      {
+        "id": "2938abb04318b15c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f0d399e69d8c542",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Dashboard"
+            }
+          },
+          {
+            "id": "008d7195ff8affb4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Dashboard"
+            }
+          },
+          {
+            "id": "ef3675cf585189e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "11e385a4059ce989",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "cf23c38e71c86a05",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dashboard.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Dashboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "2968ce1aaffb35c2",
+  "lastOpenFiles": [
+    "Programação/PHP-Laravel/Imprimir mensagens.md",
+    "Programação/PHP-Laravel/Variaveis.md",
+    "Programação/PHP-Laravel/Introdução.md",
+    "Dashboard.md",
+    "Bem-vindo.md",
+    "Sem título 1.md",
+    "Programação/PHP-Laravel/Sem título.base",
+    "Pasted image 20260615141156.png",
+    "Pasted image 20260615141149.png",
+    "Programação/PHP-Laravel/Introdução PHP.md",
+    "Programação/PHP-Laravel",
+    "Programação"
+  ]
+}
