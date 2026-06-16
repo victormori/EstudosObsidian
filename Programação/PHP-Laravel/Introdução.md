@@ -1,4 +1,4 @@
-O PHP (Hypertext Preprocessor) é uma das linguagens de programação mais populares do mundo, projetada principalmente para o desenvolvimento web. É uma linguagem de script de código aberto que roda no lado do servidor, o que significa que ela processa os dados antes de entregar a página (como HTML) para o navegador do usuário. [[1]
+O PHP (PHP Hypertext Preprocessor) é uma das linguagens de programação mais populares do mundo, projetada principalmente para o desenvolvimento web. É uma linguagem de script de código aberto que roda no lado do servidor, o que significa que ela processa os dados antes de entregar a página (como HTML) para o navegador do usuário.
 ## Documentação Oficial:
 https://www.php.net/manual/pt_BR/
 
@@ -24,5 +24,5 @@ Usuário → Apache → PHP → Banco de Dados → PHP → HTML → Apache → U
 </body>
 </html>
 ```
-	
-	
+
+## Sumario:
